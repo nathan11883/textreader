@@ -1,6 +1,6 @@
 # USAGE
 # python load_image_opencv.py --image 30th_birthday.png
-# Nathan is awesome
+# Nathan is NOT awesome
 # import the necessary packages
 import argparse
 import cv2
